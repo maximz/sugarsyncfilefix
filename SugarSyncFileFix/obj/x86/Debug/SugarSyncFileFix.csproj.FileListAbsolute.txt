@@ -1,5 +1,0 @@
-C:\Users\Maxim\Desktop\sugarsyncfilefix\SugarSyncFileFix\SugarSyncFileFix\bin\Debug\SugarSyncFileFix.exe
-C:\Users\Maxim\Desktop\sugarsyncfilefix\SugarSyncFileFix\SugarSyncFileFix\bin\Debug\SugarSyncFileFix.pdb
-C:\Users\Maxim\Desktop\sugarsyncfilefix\SugarSyncFileFix\SugarSyncFileFix\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Maxim\Desktop\sugarsyncfilefix\SugarSyncFileFix\SugarSyncFileFix\obj\x86\Debug\SugarSyncFileFix.exe
-C:\Users\Maxim\Desktop\sugarsyncfilefix\SugarSyncFileFix\SugarSyncFileFix\obj\x86\Debug\SugarSyncFileFix.pdb
