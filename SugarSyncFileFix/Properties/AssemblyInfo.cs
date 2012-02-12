@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("SugarSyncFileFix")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Undoes SugarSync file merges.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("SugarSyncFileFix")]
-[assembly: AssemblyCopyright("Copyright ©  2012")]
+[assembly: AssemblyCopyright("Copyright © 2012 Maxim Zaslavsky.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
