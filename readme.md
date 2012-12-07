@@ -1,1 +1,1 @@
-**See [Recovering From SugarSync Merge Failures Over Source Control Repositories](http://blog.maximzaslavsky.com/blog/2012/02/12/recovering-from-sugarsync-merge-failures-over-source-control-repositories/).**
+**See [Recovering From SugarSync Merge Failures Over Source Control Repositories](http://blog.maximzaslavsky.com/recovering-from-sugarsync-merge-failures-over-source-control-repositories/).**
